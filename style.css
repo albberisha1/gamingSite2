@@ -519,12 +519,6 @@ select:focus{
 .pwd-email{
     text-decoration: #fff;
 }
-.pwd-pwd{
-    
-}
-.pwd-cpwd{
-    
-}
 
 .pwd-email #enter-email{
     height: 25px;
@@ -544,3 +538,4 @@ select:focus{
     margin-top: 40px;
     margin-left: 10px;
 }
+
